@@ -80,6 +80,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
              Toast.makeText(context, String.valueOf(userModel.get(position)), Toast.LENGTH_SHORT).show();
 
 
+
              dialog.show();
          });
 
