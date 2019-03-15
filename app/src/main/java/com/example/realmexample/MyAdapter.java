@@ -99,6 +99,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.ViewHolder> {
             //???????????
 
 
+
+
             txt_name=itemView.findViewById(R.id.row_name);
             txt_family=itemView.findViewById(R.id.row_family);
         }
